@@ -64,6 +64,10 @@ This requires that the device is connected via Wi-Fi and the `IP-ADDRESS` is kno
 
 Inside an active virtual environment the notebook can be run with `jupyter notebook`. Inside Jupyter open the `Analysis.ipynb` notebook.
 
+### Energy consumption (Joules) results of different UI interaction scenarios
+
 ![Boxplot](figures/results.png)
+
+### Heatmap of the calculated Cliff’s delta effect sizes
 
 ![Heatmap](figures/heatmap.png)
