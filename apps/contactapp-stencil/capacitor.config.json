@@ -1,0 +1,7 @@
+{
+  "appId": "at.stefanhuber.contactappcapacitor",
+  "appName": "Contact App Capacitor",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
